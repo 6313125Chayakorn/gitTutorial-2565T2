@@ -6,3 +6,4 @@ for git tutorial
 
 - Bob Cat bobcat@mail.com
 - Tom Cat tomcat@mail.com
+- Marry Lamb marry@mail.com
